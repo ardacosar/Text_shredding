@@ -70,7 +70,7 @@ void readToFile(string myTextFile)
 
 int main(void) {
 
-	readToFile("deneme.txt");
+	readToFile("fileName.txt");
 
 	return 0;
 }
